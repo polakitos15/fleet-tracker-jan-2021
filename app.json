@@ -1,7 +1,7 @@
 {
-  "name": "fleet-tracker-jan-2021",
+  "name": "swgoh-arena-tracker",
   "description": "Fleet Arena Tracker for January 2021 Shard",
-  "repository": "https://github.com/polakitos15/fleet-tracker-jan-2021",
+  "repository": "https://github.com/polakitos15/swgoh-arena-tracker",
   "keywords": ["docker"],
   "stack": "container"
 }
